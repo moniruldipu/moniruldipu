@@ -9674,6 +9674,6 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
 
-.blur {
-        filter: blur(3px);
+    .blur {
+      filter: blur(3px);
 }
